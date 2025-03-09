@@ -1,19 +1,53 @@
+json
 {
+    // Zero-shot prompting technique
     "zeroshot": "Prompt sin entrenamiento previo (Zero-shot)",
+    
+    // Few-shot prompting technique
     "fewshot": "Prompt con pocas muestras (Few-shot)",
+    
+    // Chain of Thought prompting technique
     "cot": "Prompt cadena de pensamiento (CoT)",
+    
+    // Self-consistency prompting technique
     "consistency": "Auto-consistencia",
+    
+    // Generated knowledge prompting technique
     "knowledge": "Prompt de conocimiento generado",
+    
+    // Prompt chaining technique
     "prompt_chaining": "Prompt Chaining",
+    
+    // Tree of Thoughts prompting technique
     "tot": "Tree of Thoughts",
+    
+    // Retrieval Augmented Generation technique
     "rag": "Retrieval Augmented Generation",
+    
+    // Automatic Reasoning and Tool-use technique
     "art": "Automatic Reasoning and Tool-use",
+    
+    // Automatic Prompt Engineering technique
     "ape": "Ingeniería de prompts automático (APE)",
+    
+    // Active prompting technique
     "activeprompt": "Prompt activo",
+    
+    // Directional Stimulus Prompting technique
     "dsp": "Prompt de Estímulo direccional",
+    
+    // Program-Aided Language Models technique
     "pal": "Program-Aided Language Models",
+    
+    // ReAct prompting technique
     "react": "ReAct",
+    
+    // Reflexion prompting technique
     "reflexion": "Reflexion",
+    
+    // Multimodal Chain of Thought prompting technique
     "multimodalcot": "Prompt CoT multimodal",
+    
+    // Graph prompting technique
     "graph": "Prompt de grafo"
 }
