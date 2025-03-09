@@ -1,15 +1,38 @@
+json
 {
+    // 分类任务
     "classification": "Classification",
+    
+    // 编码任务
     "coding": "Coding",
+    
+    // 创意任务
     "creativity": "Creativity",
+    
+    // 评估任务
     "evaluation": "Evaluation",
+    
+    // 信息提取任务
     "information-extraction": "Information Extraction",
+    
+    // 图像生成任务
     "image-generation": "Image Generation",
+    
+    // 数学任务
     "mathematics": "Mathematics",
+    
+    // 问答任务
     "question-answering": "Question Answering",
+    
+    // 推理任务
     "reasoning": "Reasoning",
+    
+    // 文本摘要任务
     "text-summarization": "Text Summarization",
+    
+    // 真实性任务
     "truthfulness": "Truthfulness",
+    
+    // 对抗性提示任务
     "adversarial-prompting": "Adversarial Prompting"
 }
-  
